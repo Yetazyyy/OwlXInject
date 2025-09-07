@@ -3,9 +3,6 @@ import zlib
 import time
 import sys
 import os
-import unpad
-import PBKDF2
-import SHA256
 
 def deobfuscate_string(s, key=0x42):
     return ''.join(chr(b ^ key) for b in base64.b64decode(s))
