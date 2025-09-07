@@ -3,10 +3,10 @@ import zlib
 import time
 import sys
 import os
-from Crypto.Cipher import AES
-from Crypto.Util.Padding import unpad
-from Crypto.Protocol.KDF import PBKDF2
-from Crypto.Hash import SHA256
+import AES
+import unpad
+import PBKDF2
+import SHA256
 
 def deobfuscate_string(s, key=0x42):
     return ''.join(chr(b ^ key) for b in base64.b64decode(s))
