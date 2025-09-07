@@ -3,7 +3,6 @@ import zlib
 import time
 import sys
 import os
-import AES
 import unpad
 import PBKDF2
 import SHA256
