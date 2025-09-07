@@ -18,3 +18,16 @@ Kumpulan project Python buatan saya (**Yetazyyy**) yang fokus pada:
 ### 🧠 Skills Used
 ```txt
 Main Language:   Python
+
+
+apt update
+apt upgrade
+pkg install git
+pip install requests
+pip install bs4
+pip install colorama
+pkg install python3
+rm -rf YetaHubXpoilt
+git clone https://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@github.com/Yetazyyy/YetaHubXpoilt.git
+cd YetaHubXpoilt
+python3 YetaHub.py
