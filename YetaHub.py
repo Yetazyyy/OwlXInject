@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 print("Halo, dunia! こんにちは世界")
 import os, sys
-import requests
 from urllib.parse import urljoin, urlparse, parse_qs
 from bs4 import BeautifulSoup
 from colorama import init, Fore, Style
