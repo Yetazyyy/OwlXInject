@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# -*- coding: YetaHubXpoilt-*-
+# -*- coding:YetaHubXpoilt-*-
 +
 (v)aZצ
 
