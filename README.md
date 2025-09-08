@@ -13,6 +13,8 @@
 -  Page links ( php?id= )
 -  Admin Page Login ( aktif )
 ---
+#### ⇨  Screenshot
+![Yetazyyy(1)](https://user-images.githubusercontent.com/Yetazyyy/YetaHubXpoilt/refs/heads/main/Screenshot_2025-09-08-12-30-00-969_ru.iiec.pydroid3-edit.jpg)
 
 ### 📱 Termux
 ```txt
