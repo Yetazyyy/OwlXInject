@@ -10,9 +10,8 @@
 ---
 
 ### ⚡ feature
-note : script ini mirip Dh Hackbar
-✅  Page links ( php?id= )
-✅  Admin Page Login ( search )
+- ✅ Page links ( php?id= )
+- ✅ Admin Page Login ( search )
 ---
 #### 🖼️ Screenshot
 ![alt text](https://github.com/Yetazyyy/YetaHubXpoilt/blob/main/Screenshot_2025-09-08-12-30-00-969_ru.iiec.pydroid3-edit.jpg?raw=true)
