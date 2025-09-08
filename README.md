@@ -21,18 +21,14 @@ https://f-droid.org/repo/com.termux_117.apk
 
 ### 📱 Termux
 ```txt
-$ apt update
-$ apt upgrade
-$ pkg install git
-$ pip install requests
-$ pip install bs4
-$ pip install colorama
-$ pkg install python3
-$ rm -rf YetaHubXpoilt
-$ git clone https://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@github.com/Yetazyyy/YetaHubXpoilt.git
-$ cd YetaHubXpoilt
-$ python3 YetaHub.py
-
-CTRL + Z 
-$ clear
-ulangin lagi $ python3 YetaHub.py
+apt update
+apt upgrade
+pkg install git
+pip install requests
+pip install bs4
+pip install colorama
+pkg install python3
+rm -rf YetaHubXpoilt
+git clone https://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@github.com/Yetazyyy/YetaHubXpoilt.git
+cd YetaHubXpoilt
+python3 YetaHub.py
