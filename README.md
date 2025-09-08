@@ -1,5 +1,5 @@
 <h1 align="center">
-  Python Projects by Yetazyyy
+  Projects by Yetazyyy
 </h1>
 
 <p align="center">
