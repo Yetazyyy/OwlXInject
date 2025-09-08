@@ -1,5 +1,5 @@
 <h1 align="center">
-  🐍 Python Projects by Yetazyyy
+  Python Projects by Yetazyyy
 </h1>
 
 <p align="center">
@@ -9,17 +9,13 @@
 
 ---
 
-### ⚡ About
-Kumpulan project Python buatan saya (**Yetazyyy**) yang fokus pada:
-- 🔒 Cybersecurity
-
+### ⚡ feature
+-  Page links ( php?id= )
+-  Admin Page Login ( aktif )
 ---
 
-### 🧠 Skills Used
+### 📱 Termux
 ```txt
-Main Language:   Python
-
-
 apt update
 apt upgrade
 pkg install git
