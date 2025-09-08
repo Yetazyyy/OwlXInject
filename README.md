@@ -1,5 +1,5 @@
 <h1 align="center">
-  Projects by Yetazyyy
+  Projects by Yetazy2004
   Premium Script
 </h1>
 
