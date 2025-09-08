@@ -1,6 +1,5 @@
   <h1 align="center">
-    Projects by Yetazy2004
-  <br />
+    Projects by Yetazy2004<br />
   </h1>
 
   <p align="center">
