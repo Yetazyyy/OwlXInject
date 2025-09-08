@@ -8,6 +8,9 @@
 </p>
 
 ---
+### 📁 download termux
+https://f-droid.org/repo/com.termux_117.apk
+
 
 ### ⚡ feature
 - ✅ Page links ( php?id= )
