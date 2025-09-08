@@ -1,27 +1,48 @@
-<h1 align="center">
-  Projects by Yetazy2004
-  Premium Script
-</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Projects by Yetazy2004 - Premium Script</title>
+</head>
+<body>
+  <h1 align="center">
+    Projects by Yetazy2004<br />
+    Premium Script
+  </h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
-</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
+    <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status Badge" />
+  </p>
 
----
-### 📁 download termux
-https://f-droid.org/repo/com.termux_117.apk
+  <p align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+    <a href="https://www.tiktok.com/@username_anda" target="_blank" rel="noopener noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" alt="TikTok" width="50" height="50" />
+    </a>
+    <a href="https://www.tiktok.com/@username_anda" target="_blank" rel="noopener noreferrer" style="font-weight: bold; font-size: 16px; text-decoration: none; color: #000;">
+      Chat / DM
+    </a>
+  </p>
 
+  <hr />
 
-### ⚡ feature
-- ✅ Page links ( php?id= )
-- ✅ Admin Page Login ( search )
----
-#### 🖼️ Screenshot
-![alt text](https://github.com/Yetazyyy/YetaHubXpoilt/blob/main/Screenshot_2025-09-08-12-30-00-969_ru.iiec.pydroid3-edit.jpg?raw=true)
+  <h3>📁 download termux</h3>
+  <p><a href="https://f-droid.org/repo/com.termux_117.apk" target="_blank" rel="noopener noreferrer">https://f-droid.org/repo/com.termux_117.apk</a></p>
 
-### 📱 Termux
-```txt
+  <h3>⚡ feature</h3>
+  <ul>
+    <li>✅ Page links ( php?id= )</li>
+    <li>✅ Admin Page Login ( search )</li>
+  </ul>
+
+  <h4>🖼️ Screenshot</h4>
+  <p>
+    <img src="https://github.com/Yetazyyy/YetaHubXpoilt/blob/main/Screenshot_2025-09-08-12-30-00-969_ru.iiec.pydroid3-edit.jpg?raw=true" alt="Screenshot" style="max-width: 100%; height: auto;" />
+  </p>
+
+  <h3>📱 Termux</h3>
+  <pre><code>
 apt update
 apt upgrade
 pkg install git
@@ -33,3 +54,6 @@ rm -rf YetaHubXpoilt
 git clone https://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@github.com/Yetazyyy/YetaHubXpoilt.git
 cd YetaHubXpoilt
 python3 YetaHubXpoilt.py
+  </code></pre>
+</body>
+</html>
