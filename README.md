@@ -1,5 +1,6 @@
 <h1 align="center">
-  Projects by Yetazyyy
+  Projects by Yetazyyy 🐍
+  Premium Script ⚡
 </h1>
 
 <p align="center">
