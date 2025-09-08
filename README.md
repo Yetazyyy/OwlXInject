@@ -32,4 +32,4 @@ pkg install python3
 rm -rf YetaHubXpoilt
 git clone https://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@github.com/Yetazyyy/YetaHubXpoilt.git
 cd YetaHubXpoilt
-python3 YetaHub.py
+python3 YetaHubXpoilt.py
