@@ -32,7 +32,7 @@
   </p>
 
   <h3>📱 Termux</h3>
-  <pre><code>
+``` text
 apt update
 apt upgrade
 pkg install git
@@ -44,6 +44,3 @@ rm -rf YetaHubXpoilt
 git clone https://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@github.com/Yetazyyy/YetaHubXpoilt.git
 cd YetaHubXpoilt
 python3 YetaHubXpoilt.py
-  </code></pre>
-</body>
-</html>
