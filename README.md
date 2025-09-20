@@ -13,13 +13,11 @@
 [https://f-droid.org/repo/com.termux_117.apk](https://f-droid.org/repo/com.termux_117.apk)
 
 ---
-### Script ga di Updated lagi 
-fitur cuma itu aja 👇🏻
-
-----
 ### ⚡ Features
 - ✅ Page links (php?id=)
 - ✅ Admin Page Login (search)
+- 📌 Script Ga Diupdate Lagi Fitur Cuma ini
+- 🔥 Script Udah Di Public Ya 
 
 ---
 
