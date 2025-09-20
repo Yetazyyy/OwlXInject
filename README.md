@@ -7,15 +7,6 @@
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status Badge" />
 </p>
 
-<p align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <a href="https://www.tiktok.com/@owlxpoilt" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" alt="TikTok" width="50" height="50" />
-  </a>
-  <a href="https://www.tiktok.com/@owlxpoilt" target="_blank" rel="noopener noreferrer" style="font-weight: bold; font-size: 16px; text-decoration: none; color: #000;">
-    @owlxpoilt
-  </a>
-</p>
-
 <hr />
 
 ### 📁 Download Termux
