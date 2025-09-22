@@ -9,23 +9,29 @@
 
 <hr />
 
-### 📁 Download Termux
+### Download Termux
 [https://f-droid.org/repo/com.termux_117.apk](https://f-droid.org/repo/com.termux_117.apk)
 
 ---
-### ⚡ Features
+### Fitur
 ```bash
-The script is currently being fixed.
-
+THE SCRIPT IS CURRENTLY BEING FIXED.
+print("1. Cari php?id= 🔎")
+    print("2. Cari Login Admin 🔐")
+    print("3. Directory/File Brute Force 🗂️")
+    print("4. Crawl (depth & domain)🔗")
+    print("5. Laporan 📄 IMPROVE 📈")
+    print("6. SQLi? 💡 IMPROVE 👨‍💻")
+    print("7. XSS? 💡 IMPROVE 🎭")
+    print("8. Brute? 💡 IMPROVE 🔨")
+    print("9. Jelajah 🧭")
+    print("10. Periksa Header Keamanan 🛡️")
+```
 ---
 
-### 🖼️ Screenshot
+### Screenshot
 <p align="center">
   <img src="https://github.com/Yetazyyy/YetaHubXpoilt/blob/main/Screenshot_2025-09-23-01-34-40-108_ru.iiec.pydroid3-edit.jpg?raw=true" alt="Screenshot" style="max-width: 100%; height: auto;" />
 </p>
 
 ---
-
-### 📱 Cara Install dan Jalankan di Termux
-
-```bash
