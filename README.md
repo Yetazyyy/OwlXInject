@@ -12,18 +12,6 @@
 [https://f-droid.org/repo/com.termux_117.apk](https://f-droid.org/repo/com.termux_117.apk)
 
 ---
-### Fitur
-1. Cari php?id=
-2. Cari Login Admin
-3. Directory/File Brute Force
-4. Crawl Depth & Domain
-5. Laporan Html & Report 
-6. Testing SQL
-7. Testing XSS
-8. Brute Force Admin Login
-9. Jelajah
-10. Periksa Header Keamanan 
----
 
 ### Screenshot
 <p align="center">
