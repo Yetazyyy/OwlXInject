@@ -16,16 +16,16 @@
 ### Fitur
 ```bash
 THE SCRIPT IS CURRENTLY BEING FIXED.
-print("1. Cari php?id= 🔎")
-    print("2. Cari Login Admin 🔐")
-    print("3. Directory/File Brute Force 🗂️")
-    print("4. Crawl (depth & domain)🔗")
-    print("5. Laporan 📄 IMPROVE 📈")
-    print("6. SQLi? 💡 IMPROVE 👨‍💻")
-    print("7. XSS? 💡 IMPROVE 🎭")
-    print("8. Brute? 💡 IMPROVE 🔨")
-    print("9. Jelajah 🧭")
-    print("10. Periksa Header Keamanan 🛡️")
+1. Cari php?id=
+2. Cari Login Admin
+3. Directory/File Brute Force
+4. Crawl Depth & Domain
+5. Laporan Html & Report 
+6. Testing SQL
+7. Testing XSS
+8. Brute Force Admin Login
+9. Jelajah
+10. Periksa Header Keamanan 
 ```
 ---
 
