@@ -14,7 +14,8 @@
 
 ---
 ### ⚡ Features
-• The script is currently being fixed.
+```bash
+The script is currently being fixed.
 
 ---
 
