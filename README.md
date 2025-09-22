@@ -28,14 +28,3 @@
 ### 📱 Cara Install dan Jalankan di Termux
 
 ```bash
-apt update
-apt upgrade
-pkg install git
-pkg install python3
-pip install requests
-pip install bs4
-pip install colorama
-rm -rf YetaHubXpoilt
-git clone https://github.com/Yetazyyy/YetaHubXpoilt.git
-cd YetaHubXpoilt
-python3 YetaHubXpoilt.py
