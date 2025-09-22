@@ -14,7 +14,7 @@
 
 ---
 ### ⚡ Features
-• masih dalam perbaikan
+• The script is currently being fixed.
 
 ---
 
