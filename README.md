@@ -14,10 +14,7 @@
 
 ---
 ### ⚡ Features
-- ✅ Page links (php?id=)
-- ✅ Admin Page Login (search)
-- 📌 Script Ga Diupdate Lagi Fitur Cuma ini
-- 🔥 Script Udah Di Public Ya 
+• masih dalam perbaikan
 
 ---
 
