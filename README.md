@@ -12,11 +12,6 @@
 [https://f-droid.org/repo/com.termux_117.apk](https://f-droid.org/repo/com.termux_117.apk)
 
 ---
-### Noted
-```bash
-THE SCRIPT IS CURRENTLY BEING FIXED.
-```
----
 ### Fitur
 1. Cari php?id=
 2. Cari Login Admin
