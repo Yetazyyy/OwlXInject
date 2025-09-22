@@ -1,5 +1,5 @@
 <h1 align="center">
-  Projects by Yetazyy
+  PROJECTS BY YETAZYY
 </h1>
 
 <p align="center">
@@ -8,14 +8,15 @@
 
 <hr />
 
-### Download Termux
+### DOWNLOAD TERMUX
 [https://f-droid.org/repo/com.termux_117.apk](https://f-droid.org/repo/com.termux_117.apk)
 
 ---
-
-### Screenshot
+### SCREENSHOT
 <p align="center">
   <img src="https://github.com/Yetazyyy/YetaHubXpoilt/blob/main/Screenshot_2025-09-23-01-34-40-108_ru.iiec.pydroid3-edit.jpg?raw=true" alt="Screenshot" style="max-width: 100%; height: auto;" />
 </p>
 
 ---
+### NOTED
+
