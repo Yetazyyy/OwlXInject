@@ -13,9 +13,12 @@
 [https://f-droid.org/repo/com.termux_117.apk](https://f-droid.org/repo/com.termux_117.apk)
 
 ---
-### Fitur
+### Noted
 ```bash
 THE SCRIPT IS CURRENTLY BEING FIXED.
+```
+---
+### Fitur
 1. Cari php?id=
 2. Cari Login Admin
 3. Directory/File Brute Force
@@ -26,7 +29,6 @@ THE SCRIPT IS CURRENTLY BEING FIXED.
 8. Brute Force Admin Login
 9. Jelajah
 10. Periksa Header Keamanan 
-```
 ---
 
 ### Screenshot
