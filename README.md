@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
-<img src="https://img.shields.io/badge/Status-Inactive-red?style=for-the-badge" alt="Status Badge" />
+<img src="https://img.shields.io/badge/Status-Fix_Script-red?style=for-the-badge" alt="Status Badge" />
 </p>
 
 <hr />
