@@ -8,14 +8,13 @@
 
 <hr />
 
-### DOWNLOAD TERMUX
+### DOWNLOAD TERMUX 📥
 [https://f-droid.org/repo/com.termux_117.apk](https://f-droid.org/repo/com.termux_117.apk)
 
 ---
-### SCREENSHOT
+### SCREENSHOT 📸
 <p align="center">
   <img src="https://github.com/Yetazyyy/OwlXInject/blob/main/Screenshot.jpg?raw=true" alt="Screenshot" style="max-width: 100%; height: auto;" />
 </p>
 
 ---
-### NOTED
