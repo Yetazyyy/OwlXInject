@@ -1,5 +1,5 @@
 <h1 align="center">
-  🦉 Projects By Yetazyyy 🦉
+Projects By Yetazyyy 🦉
 </h1>
 
 <p align="center">
