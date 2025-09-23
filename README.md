@@ -14,7 +14,7 @@
 ---
 ### SCREENSHOT
 <p align="center">
-  <img src="https://github.com/Yetazyyy/YetaHubXpoilt/blob/main/Screenshot_2025-09-23-01-34-40-108_ru.iiec.pydroid3-edit.jpg?raw=true" alt="Screenshot" style="max-width: 100%; height: auto;" />
+  <img src="https://github.com/Yetazyyy/OwlXInject/blob/main/Screenshot.jpg?raw=true" alt="Screenshot" style="max-width: 100%; height: auto;" />
 </p>
 
 ---
