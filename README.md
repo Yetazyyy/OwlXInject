@@ -1,5 +1,5 @@
 <h1 align="center">
-  PROJECTS BY YETAZYY
+  🦉 Projects By Yetazyyy 🦉
 </h1>
 
 <p align="center">
@@ -19,4 +19,3 @@
 
 ---
 ### NOTED
-
