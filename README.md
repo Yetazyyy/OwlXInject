@@ -3,8 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status Badge" />
-</p>
+<img src="https://img.shields.io/badge/Status-Fix_Script-red?style=for-the-badge" alt="Status Badge" /></p>
 
 <hr />
 
